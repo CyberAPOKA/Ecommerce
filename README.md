@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Roadmap do Ecommerce com Pagamentos Reais</title>
   </head>
   <body>
     <h1>Roadmap do Ecommerce com Pagamentos Reais</h1>
